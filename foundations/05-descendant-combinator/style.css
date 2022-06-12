@@ -1,0 +1,6 @@
+div > p {
+  color: rgba(236, 18, 18, 0.935);
+  background-color: yellow;
+  font-size: 20px;
+  text-align: center;
+}
