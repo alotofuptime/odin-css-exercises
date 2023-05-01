@@ -43,6 +43,7 @@ a {
   color: rebeccapurple;
 }
 
+/* solution */
 ul {
   margin: 0;
   padding: 0;
@@ -51,12 +52,10 @@ ul {
   gap: 16px;
 }
 
-/* solution */
 .header {
   padding: 8px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 
 .header-left, .header-right {
