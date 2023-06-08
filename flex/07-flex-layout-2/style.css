@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .header {
@@ -19,8 +18,8 @@ body {
 }
 
 .wrapper {
+  flex: 1;
   display: flex;
-  min-height: inherit;
 }
 
 .card-container {
@@ -54,6 +53,8 @@ body {
 
 .sidebar ul {
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .card {
